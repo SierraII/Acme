@@ -3,19 +3,13 @@ namespace App.Acme.Shared
 {
 	public class SavingsAccount : Account, IAccount
 	{
-		// withdraw:
-		// minimum balance of R1000.00
-		// account’s balance is decreased by the amount withdrawn
-		// deposit:
-		// can only be opened if you deposit at least R1000.00
-		// account’s balance is increased by the amount deposited
 
 		// defaulting the interest rate of a svings account to 3%
-		public SavingsAccount(string accountID, decimal initialDeposit) : base(accountID, initialDeposit, 0.03)
+		public SavingsAccount(string accountID, decimal initialDeposit, string accountHolder) : base(accountID, initialDeposit, 0.03, accountHolder)
 		{
 			if (initialDeposit < 1000)
 			{
-				throw new ApplicationException("Initial Deposit Too Low");
+				throw new Exception("InitialDepositTooLowException");
 			}
 		}
 
@@ -30,7 +24,7 @@ namespace App.Acme.Shared
 
 			if (getAmount() - amount < 1000)
 			{
-				throw new ApplicationException("Withdrawal Amount Too Large");
+				throw new Exception("WithdrawalAmountTooLargeException");
 			}
 			else
 			{

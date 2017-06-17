@@ -3,14 +3,22 @@ namespace App.Acme.Shared
 {
 	public abstract class Account
 	{
-
+		
 		public string AccountID { get; }
 		public decimal Amount { get; private set; }
 		public double InterestRate { get; }
+		public string AccountHolder { get; }
 
-		public Account(string accountID, decimal initialDeposit, double interestRate)
+		public Account(string accountID, decimal initialDeposit, double interestRate, string accountHolder)
 		{
 			this.Amount = initialDeposit;
+			this.AccountID = accountID;
+			this.InterestRate = interestRate;
+			this.AccountHolder = accountHolder;
+		}
+
+		public Account(string accountID, double interestRate)
+		{
 			this.AccountID = accountID;
 			this.InterestRate = interestRate;
 		}

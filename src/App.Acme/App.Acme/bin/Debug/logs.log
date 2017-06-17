@@ -112,3 +112,45 @@
 17/Jun/2017 07:21:18 2402 info: Base Account - ID 1 deposited R22. Total = R1022
 17/Jun/2017 07:21:18 2409 info: Savings Account - ID 1 withdrawing R10
 17/Jun/2017 07:21:18 2412 info: Base Account - ID 1 withdrew R10. Total = R1012
+17/Jun/2017 07:39:39 2094 info: Savings Account - ID 1 depositing R22
+17/Jun/2017 07:39:39 2135 info: Base Account - ID 1 deposited R22. Total = R1022
+17/Jun/2017 07:39:39 2144 info: Savings Account - ID 1 withdrawing R10
+17/Jun/2017 07:39:39 2147 info: Base Account - ID 1 withdrew R10. Total = R1012
+17/Jun/2017 07:51:45 0017 info: Savings Account - ID 1 depositing R22
+17/Jun/2017 07:51:45 0062 info: Base Account - ID 1 deposited R22. Total = R1022
+17/Jun/2017 07:51:45 0070 info: Savings Account - ID 1 withdrawing R10
+17/Jun/2017 07:51:45 0074 info: Base Account - ID 1 withdrew R10. Total = R1012
+17/Jun/2017 07:54:59 9568 info: Savings Account - ID 1 depositing R22
+17/Jun/2017 07:54:59 9609 info: Base Account - ID 1 deposited R22. Total = R1022
+17/Jun/2017 07:54:59 9617 info: Savings Account - ID 1 withdrawing R10
+17/Jun/2017 07:54:59 9620 info: Base Account - ID 1 withdrew R10. Total = R1012
+17/Jun/2017 07:54:59 9624 info: Current Account - ID 5 withdrawing R500
+17/Jun/2017 07:54:59 9625 info: Base Account - ID 5 withdrew R500. Total = R4500
+17/Jun/2017 07:55:09 1811 info: Savings Account - ID 1 depositing R22
+17/Jun/2017 07:55:09 1858 info: Base Account - ID 1 deposited R22. Total = R1022
+17/Jun/2017 07:55:09 1867 info: Savings Account - ID 1 withdrawing R10
+17/Jun/2017 07:55:09 1870 info: Base Account - ID 1 withdrew R10. Total = R1012
+17/Jun/2017 07:55:09 1873 info: Current Account - ID 5 withdrawing R30000
+17/Jun/2017 07:55:09 1876 info: Base Account - ID 5 withdrew R30000. Total = R-25000
+17/Jun/2017 07:55:14 1065 info: Savings Account - ID 1 depositing R22
+17/Jun/2017 07:55:14 1104 info: Base Account - ID 1 deposited R22. Total = R1022
+17/Jun/2017 07:55:14 1115 info: Savings Account - ID 1 withdrawing R10
+17/Jun/2017 07:55:14 1119 info: Base Account - ID 1 withdrew R10. Total = R1012
+17/Jun/2017 08:05:03 8427 info: Savings Account - ID ACC1 depositing R22
+17/Jun/2017 08:05:03 8469 info: Base Account - ID ACC1 deposited R22. Total = R1022,00
+17/Jun/2017 08:05:03 8477 info: Savings Account - ID ACC1 withdrawing R10
+17/Jun/2017 08:05:03 8480 info: Base Account - ID ACC1 withdrew R10. Total = R1012,00
+17/Jun/2017 08:06:58 4358 info: Savings Account - ID ACC1 depositing R22
+17/Jun/2017 08:06:58 4405 info: Base Account - ID ACC1 deposited R22. Total = R1022,00
+17/Jun/2017 08:06:58 4413 info: Savings Account - ID ACC1 withdrawing R10
+17/Jun/2017 08:06:58 4417 info: Base Account - ID ACC1 withdrew R10. Total = R1012,00
+17/Jun/2017 08:07:37 7871 info: Savings Account - ID ACC1 depositing R22
+17/Jun/2017 08:07:37 7913 info: Base Account - ID ACC1 deposited R22. Total = R1022,00
+17/Jun/2017 08:07:37 7922 info: Savings Account - ID ACC1 withdrawing R10
+17/Jun/2017 08:07:37 7925 info: Base Account - ID ACC1 withdrew R10. Total = R1012,00
+17/Jun/2017 08:07:37 7928 info: Current Account - ID ACC5 withdrawing R30000
+17/Jun/2017 08:07:37 7930 info: Base Account - ID ACC5 withdrew R30000. Total = R-25000,00
+17/Jun/2017 08:07:51 8582 info: Savings Account - ID ACC1 depositing R22
+17/Jun/2017 08:07:51 8627 info: Base Account - ID ACC1 deposited R22. Total = R1022,00
+17/Jun/2017 08:07:51 8634 info: Savings Account - ID ACC1 withdrawing R10
+17/Jun/2017 08:07:51 8637 info: Base Account - ID ACC1 withdrew R10. Total = R1012,00

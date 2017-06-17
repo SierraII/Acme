@@ -6,11 +6,11 @@ namespace App.Acme
 	{
 		public static void Main(string[] args)
 		{
-			SystemDB bd = new SystemDB();
+			SystemDB db = new SystemDB();
 
-			bd.deposit("1", Convert.ToDecimal(22));
-			bd.widthdraw("1", Convert.ToDecimal(10));
-
+			db.deposit("ACC1", Convert.ToDecimal(22));
+			db.widthdraw("ACC1", Convert.ToDecimal(10));
+			db.widthdraw("ACC5", Convert.ToDecimal(30000));
 		}
 	}
 }
