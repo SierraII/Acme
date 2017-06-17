@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace App.Acme
 {
@@ -10,7 +11,12 @@ namespace App.Acme
 
 			db.deposit("ACC1", Convert.ToDecimal(22));
 			db.widthdraw("ACC1", Convert.ToDecimal(10));
-			db.widthdraw("ACC5", Convert.ToDecimal(30001));
+			db.widthdraw("ACC5", Convert.ToDecimal(30000));
+
+			while (true)
+			{
+				Thread.Sleep(1);
+			}
 		}
 	}
 }
