@@ -1,0 +1,34 @@
+{
+    "applications": {
+
+        "acme": {
+            "src": "./src/App.Acme/",
+            "dest": "/Release/",
+            "sln_path": "/App.Acme.sln",
+            "release": "/App.Acme/bin/Release",
+            "exe_file": "App.Acme.exe"
+        }
+
+    },
+
+    "projects": {
+
+        "loner": {
+            "project": "loner-170411",
+            "region": "europe-west1-b",
+            "cluster": "main-cluster"
+        }
+
+    },
+
+    "deployments": {
+
+        "acme-system": {
+            "name": "acme-system",
+            "registry": "acme/system",
+            "application": "acme"
+        }
+
+    }
+
+}
