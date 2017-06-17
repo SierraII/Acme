@@ -5,3 +5,7 @@
 /Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme/obj/x86/Debug/App.Acme.exe.mdb
 /Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme/bin/Debug/App.Acme.Utils.dll
 /Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme/bin/Debug/App.Acme.Utils.dll.mdb
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme/bin/Debug/App.Acme.Shared.dll
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme/bin/Debug/App.Acme.Shared.dll.mdb
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme/bin/Debug/App.Acme.Context.dll
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme/bin/Debug/App.Acme.Context.dll.mdb

@@ -1,9 +1,14 @@
 ﻿<Properties StartupConfiguration="{E01C6827-D778-4182-AAB9-6FCC3CB3F2F6}|Default">
   <MonoDevelop.Ide.ItemProperties.App.Acme PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="App.Acme.Utils/Logcat.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App.Acme.Shared/CurrentAccount.cs">
     <Files>
-      <File FileName="App.Acme/Program.cs" Line="9" Column="38" />
-      <File FileName="App.Acme.Utils/Logcat.cs" Line="55" Column="37" />
+      <File FileName="App.Acme/Program.cs" Line="12" Column="46" />
+      <File FileName="App.Acme/SystemDB.cs" Line="45" Column="44" />
+      <File FileName="App.Acme.Context/Context.cs" Line="13" Column="23" />
+      <File FileName="App.Acme.Shared/IAccount.cs" Line="10" Column="1" />
+      <File FileName="App.Acme.Shared/SavingsAccount.cs" Line="28" Column="32" />
+      <File FileName="App.Acme.Shared/Account.cs" Line="7" Column="35" />
+      <File FileName="App.Acme.Shared/CurrentAccount.cs" Line="15" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

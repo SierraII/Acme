@@ -1,10 +1,9 @@
 ﻿using System;
 namespace App.Acme.Shared
 {
-	public class IAccount
+	public interface IAccount
 	{
-		public IAccount()
-		{
-		}
+		void deposit(decimal amount);
+		void withdraw(decimal amount);
 	}
 }

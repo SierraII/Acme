@@ -1,0 +1,7 @@
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme.Context/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme.Context/bin/Debug/App.Acme.Context.dll.mdb
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme.Context/bin/Debug/App.Acme.Context.dll
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme.Context/obj/Debug/App.Acme.Context.dll
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme.Context/obj/Debug/App.Acme.Context.dll.mdb
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme.Context/bin/Debug/App.Acme.Utils.dll
+/Users/adriandavidsmith/Documents/workbench/Acme/src/App.Acme/App.Acme.Context/bin/Debug/App.Acme.Utils.dll.mdb

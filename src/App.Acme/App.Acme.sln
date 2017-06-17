@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Acme", "App.Acme\App.Ac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Acme.Utils", "App.Acme.Utils\App.Acme.Utils.csproj", "{C572925A-4165-4615-9DB1-02EBB654A72E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Acme.Shared", "App.Acme.Shared\App.Acme.Shared.csproj", "{095154F6-F3DD-44D1-9F86-4898D1F70CA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Acme.Core", "App.Acme.Context\App.Acme.Core.csproj", "{DDFB305B-CF2D-448A-80C5-DC3C7F6D9218}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,5 +23,13 @@ Global
 		{C572925A-4165-4615-9DB1-02EBB654A72E}.Debug|x86.Build.0 = Debug|Any CPU
 		{C572925A-4165-4615-9DB1-02EBB654A72E}.Release|x86.ActiveCfg = Release|Any CPU
 		{C572925A-4165-4615-9DB1-02EBB654A72E}.Release|x86.Build.0 = Release|Any CPU
+		{095154F6-F3DD-44D1-9F86-4898D1F70CA4}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{095154F6-F3DD-44D1-9F86-4898D1F70CA4}.Debug|x86.Build.0 = Debug|Any CPU
+		{095154F6-F3DD-44D1-9F86-4898D1F70CA4}.Release|x86.ActiveCfg = Release|Any CPU
+		{095154F6-F3DD-44D1-9F86-4898D1F70CA4}.Release|x86.Build.0 = Release|Any CPU
+		{DDFB305B-CF2D-448A-80C5-DC3C7F6D9218}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DDFB305B-CF2D-448A-80C5-DC3C7F6D9218}.Debug|x86.Build.0 = Debug|Any CPU
+		{DDFB305B-CF2D-448A-80C5-DC3C7F6D9218}.Release|x86.ActiveCfg = Release|Any CPU
+		{DDFB305B-CF2D-448A-80C5-DC3C7F6D9218}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

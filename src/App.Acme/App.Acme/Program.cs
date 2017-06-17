@@ -6,8 +6,11 @@ namespace App.Acme
 	{
 		public static void Main(string[] args)
 		{
-			Utils.Logcat log = new Utils.Logcat();
-			log.i("Acme Bank System...");
+			SystemDB bd = new SystemDB();
+
+			bd.deposit("1", Convert.ToDecimal(22));
+			bd.widthdraw("1", Convert.ToDecimal(10));
+
 		}
 	}
 }
