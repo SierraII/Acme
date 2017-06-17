@@ -13,7 +13,7 @@
 
     "projects": {
 
-        "loner": {
+        "acme": {
             "project": "loner-170411",
             "region": "europe-west1-b",
             "cluster": "main-cluster"
