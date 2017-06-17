@@ -1,3 +1,11 @@
 src/App.Acme/App.Acme/bin/
 src/App.Acme/App.Acme/obj/
 node_modules/
+src/App.Acme/App.Acme.Shared/bin/
+src/App.Acme/App.Acme.Utils/bin/
+src/App.Acme/App.Acme.Shared/obj/
+src/App.Acme/App.Acme.Utils/obj/
+src/App.Acme/App.Acme/obj/
+src/App.Acme/App.Acme/bin/
+src/App.Acme/App.Acme.Context/obj/
+src/App.Acme/App.Acme.Context/bin/
