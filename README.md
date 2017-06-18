@@ -12,3 +12,9 @@ As extra, I decided to make this application deployable to Kubernetes as a "micr
 <b> There is a forever loop in the main application due to the nature of Kubernetes needing a "forever" process for their running containers, otherwise it goes into an infinite restart loop. This can be removed. </b>
 
 To setup this environment, install Docker, The Google Cloud Platform SDK and Node.js and run the setup.sh script and send me your email so that I can add you onto the project. Or alternatively you could watch the supplied video with the deploymenty below.
+
+## Demo
+Image redirects to Youtube:
+<p align="center">
+    <a href="https://youtu.be/XNy5KjZSfZQ" target="_blank"><img width="300" src="https://img.youtube.com/vi/XNy5KjZSfZQ/0.jpg" alt=""/></a>
+</p>
